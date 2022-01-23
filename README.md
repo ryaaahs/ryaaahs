@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Reily (Ryaaahs) Maahs 😺   
+Currently a third year CET student @ Algonquin College
+
+- 🔭 I’m currently working through The Odin Project 
+- 🌱 I’m currently learning HTML/CSS/JS + Ruby
+
 <!--
 **Ryaaahs/ryaaahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

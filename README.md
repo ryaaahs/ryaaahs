@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 I'm Reily (Ryaaahs) Maahs 😺   
-Currently a third year CET student @ Algonquin College
+Currently a third year CET-CS student @ Algonquin College
 
-- 🔭 Working through Full Stack Open
-- 🌱 Currently relearning HTML/CSS/JS + learning Ruby
-- 💻 Work with Vue.js + Laravel at current COOP @ Federal Government
-- ✨ Interested in working in Large Scaled Projects
+- 🌱 Currently learning HTML/CSS/JS, Ruby
+- 💻 Working with Vue.js + Laravel @ Federal Government
+- ✨ Interested in working in Large Scaled Projects (CRUD / Other)
 - 🐻 Away from computers, I enjoy long distance running, pixel-art, and freestyle wrestling

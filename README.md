@@ -1,2 +1,2 @@
 
-making things with code 
+constant learning
